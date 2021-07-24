@@ -6,13 +6,6 @@ An assiduous senior majoring in Computer Science with proficient technical and p
 Self-learning Software Engineering and Artificial Intelligence through research and development.<br>
 Passionate about implementing and launching innovative projects.<br>
 
-<h2> 📑 Papers by me. </h2>
-
-* [Netflix Challenge - Improving Movie Recommendations](https://www.vasugoel.com/posts/netflix-challenge-improving-movie-recommendations.pdf)
-
-* [Cluster Analysis To Visualize College Majors That Pay Back](https://www.vasugoel.com/posts/cluster-analysis-to-visualize-college-majors-that-pay-back.pdf)
-
-
 <h2> 📬 Connect with me. </h2>
 
 <a href="https://www.linkedin.com/in/vasu-goel/">
