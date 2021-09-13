@@ -2,9 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/5SBHHslw9yXEy4tmvf/giphy.gif" width="230">
 
-An assiduous senior majoring in Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
-Self-learning Software Engineering and Artificial Intelligence through research and development.<br>
-Passionate about implementing and launching innovative projects.<br>
+
+A recent college graduate in major Computer Science with proficient technical and problem-solving skills, looking to transform business requirements into technical solutions.<br>
+Working at PayPal as a Software Engineer building backend micro-services and data pipelines.
+solutions.
 
 <h2> 📬 Connect with me. </h2>
 
